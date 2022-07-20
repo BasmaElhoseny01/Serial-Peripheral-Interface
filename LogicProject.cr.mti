@@ -1,0 +1,24 @@
+C:/Users/Dell/Downloads/LogicTeam2/Slave.v {1 {vlog -work work -stats=none C:/Users/Dell/Downloads/LogicTeam2/Slave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Slave
+-- Compiling module Slave_tb
+
+Top level modules:
+	Slave_tb
+
+} {} {}} C:/Users/Dell/Downloads/LogicTeam2/Master.v {1 {vlog -work work -stats=none C:/Users/Dell/Downloads/LogicTeam2/Master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Master
+-- Compiling module MasterTB
+
+Top level modules:
+	MasterTB
+
+} {} {}} C:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v {1 {vlog -work work -stats=none C:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DevelopmentTB
+
+Top level modules:
+	DevelopmentTB
+
+} {} {}}

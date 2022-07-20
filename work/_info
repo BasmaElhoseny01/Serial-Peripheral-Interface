@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Dell/Desktop/Tam2
+vDevelopmentTB
+Z0 !s110 1622556689
+!i10b 1
+!s100 iz?d`UzUG[26_NAA<[@H`2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG<3i<P=RY9gfKfKf3PZ6h0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Dell/Downloads/LogicTeam2
+w1622556563
+8C:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v
+FC:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v
+!i122 0
+L0 1 111
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1622556689.000000
+!s107 C:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Dell/Downloads/LogicTeam2/DevelopmentTB.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@development@t@b
+vMaster
+R0
+!i10b 1
+!s100 08=1Pjf<a?HYGn9f<ZAI53
+R1
+I]4=e;b_:1HVl96Akhd_7W2
+R2
+R3
+Z8 w1622556566
+Z9 8C:/Users/Dell/Downloads/LogicTeam2/Master.v
+Z10 FC:/Users/Dell/Downloads/LogicTeam2/Master.v
+!i122 1
+L0 1 48
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/Dell/Downloads/LogicTeam2/Master.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Dell/Downloads/LogicTeam2/Master.v|
+!i113 1
+R6
+R7
+n@master
+vMasterTB
+R0
+!i10b 1
+!s100 3lS7WSiC;L;WTk<=iIo8;0
+R1
+I<3<>IoNJlBQOEVGhj:<J=3
+R2
+R3
+R8
+R9
+R10
+!i122 1
+L0 52 125
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+n@master@t@b
+vSlave
+R0
+!i10b 1
+!s100 cWRRBIf^dnJ]=0YgKlZ2d3
+R1
+IlbCmagJa<UANh_i>U[F5X2
+R2
+R3
+Z13 w1622556569
+Z14 8C:/Users/Dell/Downloads/LogicTeam2/Slave.v
+Z15 FC:/Users/Dell/Downloads/LogicTeam2/Slave.v
+!i122 2
+L0 1 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Dell/Downloads/LogicTeam2/Slave.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Dell/Downloads/LogicTeam2/Slave.v|
+!i113 1
+R6
+R7
+n@slave
+vSlave_tb
+R0
+!i10b 1
+!s100 M>Qb<gYh9NO:4nhd1ThYl3
+R1
+IPijd6z8hHT_c3?Ua3GhSQ0
+R2
+R3
+R13
+R14
+R15
+!i122 2
+L0 37 41
+R4
+r1
+!s85 0
+31
+R5
+Z17 !s107 C:/Users/Dell/Downloads/LogicTeam2/Slave.v|
+R16
+!i113 1
+R6
+R7
+n@slave_tb
